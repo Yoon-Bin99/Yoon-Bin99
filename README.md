@@ -3,15 +3,6 @@
 </div>
 
 <div align="center">
-  <h2> 서버와 서버 사이를 설계합니다 </h2>
-  기계공학을 전공하다 서버가 맞물려 서비스가 되는 구조에 매료되어 백엔드로 진로를 바꿨습니다.<br/>
-  Java와 Spring Boot로 서버의 책임을 나누고 외부 API를 안정적으로 연결하는 일을 주로 합니다.<br/>
-  8인 팀 프로젝트에서 5개 서버로 구성된 MSA를 설계하고 AWS EKS에 CI/CD로 배포했습니다.<br/>
-  외부 API 장애가 서비스 전체로 번지지 않도록 경계를 나누는 설계에 관심이 많습니다.<br/>
-  기술을 고를 때 남들이 쓰니까보다 왜 이 방식이어야 하는지를 먼저 설명할 수 있어야 한다고 생각합니다.
-</div>
-
-<div align="center">
   <h2> 🛠️ Tech Stacks </h2>
   <b>Language</b><br/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
