@@ -49,6 +49,6 @@
 
 <div align="center">
   <h2> 🏅 Stats </h2>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yoon-Bin99&show_icons=true&hide_border=true&theme=github_dark" />
+  [![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-Bin99)](https://github.com/Yoon-Bin99/github-readme-stats)
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-Bin99&layout=compact&hide_border=true&theme=github_dark" />
 </div>
