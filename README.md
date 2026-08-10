@@ -49,9 +49,9 @@
 
 <div align="center">
   <h2> 🏅 Stats </h2>
-  ```markdown
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-Bin99&layout=compact&hide_border=true&theme=github_dark" />
+</div>
+ ```markdown
 ![GitHub Stats](http://localhost:9000/api?username=Yoon-Bin99&theme=dark)
 ```
 ![GitHub Stats Dark](.github/assets/stats-dark.svg)
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-Bin99&layout=compact&hide_border=true&theme=github_dark" />
-</div>
