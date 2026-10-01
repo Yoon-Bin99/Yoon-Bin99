@@ -40,6 +40,9 @@
 
 <div align="center">
   <h2> 🧑‍💻 Contact me </h2>
+  <a href="mailto:shp06135@naver.com">
+    <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
   <a href="https://app.notion.com/p/YOON-BIN-Resume_Backend-8c4b2451e4508331863a81989483201d?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
