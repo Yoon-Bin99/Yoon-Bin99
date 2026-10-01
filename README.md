@@ -45,6 +45,7 @@
   </a>
 </div>
 
-![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-Bin99&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-Bin99&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yoon-Bin99&show_icons=true&theme=dark" alt="Yoon's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-Bin99&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
