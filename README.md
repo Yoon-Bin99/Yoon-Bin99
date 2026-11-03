@@ -49,6 +49,9 @@
   <a href="https://app.notion.com/p/YOON-BIN-Resume_Backend-8c4b2451e4508331863a81989483201d?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
+   <a href="https://yoon-bin99.github.io/intro/">
+    <img src="https://img.shields.io/badge/Projects-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
 </div>
 
 <p align="center">
